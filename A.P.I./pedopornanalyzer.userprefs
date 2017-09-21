@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="pedopornanalyzer/pedopornanalyzer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pedopornanalyzer/Classifier.cs">
+    <Files>
+      <File FileName="pedopornanalyzer/Classifier.cs" Line="91" Column="95" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
